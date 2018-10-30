@@ -92,7 +92,6 @@
 * [三四线城市电视触媒的“真相”：央视整体占优，仍有大量年轻电视受众](https://baijiahao.baidu.com/s?id=1610675419035348343&wfr=spider&for=pc))
 * [CSM](http://www.csm.com.cn/cpfw/ds/wldc.html)
 * [三四线)_199IT网站站内搜索](http://s.199it.com/cse/search?s=913566115233094367&entry=1&q=%E4%B8%89%E5%9B%9B%E7%BA%BF))
-
 * [Homepage - Beijing City Lab](https://www.beijingcitylab.com/)
 * [克而瑞地产观察](https://mp.weixin.qq.com/s/JoPA0-s08Otvs6Szuj4xAQ)
 * [统计数据_学术研究_中国物流与采购网](https://m.baidu.com/from=844b/bd_page_type=1/ssid=0/uid=0/pu=usm%403%2Csz%40320_1001%2Cta%40iphone_2_8.1_3_537/baiduid=DA346AD65C199D20AE7B91C696B51411/w=0_10_/t=iphone/l=3/tc?ref=www_iphone&lid=7502809671660331774&order=5&fm=alop&isAtom=1&is_baidu=0&tj=www_normal_5_0_10_title&vit=osres&m=8&srd=1&cltj=cloud_title&asres=1&title=%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE_%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6_%E4%B8%AD%E5%9B%BD%E7%89%A9%E6%B5%81%E4%B8%8E%E9%87%87%E8%B4%AD%E7%BD%91&dict=32&wd=&eqid=681f55a510ade400100000035bd5484b&w_qd=IlPT2AEptyoA_ykyxQcbzgGuClNVj7u&tcplug=1&sec=33773&di=aa5004525c1bf875&bdenc=1&tch=124.89.44.1461.1.602&nsrc=IlPT2AEptyoA_yixCFOxXnANedT62v3IEQGG_ytQ_zSvilirgeWlItdnHDD62Sm5C6LkviPQpsxRcTPcUG9n6t1TaP1s&clk_type=1&l=1&baiduid=DA346AD65C199D20AE7B91C696B51411&w=0_10_%E7%89%A9%E6%B5%81%E6%95%B0%E6%8D%AE&t=iphone&from=844b&ssid=0&uid=0&bd_page_type=1&pu=usm%403%2Csz%40320_1001%2Cta%40iphone_2_8.1_3_537&clk_info=%7B%22srcid%22%3A1599%2C%22tplname%22%3A%22www_normal%22%2C%22t%22%3A1540704353432%2C%22xpath%22%3A%22div-article-header-div-a-h3-span%22%7D&sfOpen=1)
@@ -105,3 +104,12 @@
 * [零售金童观点](https://mp.weixin.qq.com/s/4NwSbV-cZ2mnw0GnYyI5yw)
 * [腾云](https://mp.weixin.qq.com/s/uR_p8TGLjVQDwfZdIJUQvA)
 * [最后的红利：三四五线网民时间&金钱消费报告|企鹅智库_科技_腾讯网](http://tech.qq.com/a/20180828/029780.htm#p=13)
+
+
+
+
+
+## ChangeLog
+
+- 181030 小黑创建
+- 181030 小黑更新微信群内收集资料
