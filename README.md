@@ -107,6 +107,22 @@
 
 
 
+------------
+
+## 数字游民(Digital Nomad)相关资料
+
+[Nomad List | 找适合远程工作的城市 | sideidea.com](http://sideidea.com/article/2)
+
+[数字游民(Digital Nomad)扫盲帖2017最新修订迭代版](https://www.douban.com/group/topic/105944187/)
+
+[Tim Ferriss and The 4-Hour Workweek](https://fourhourworkweek.com/)
+
+[The 4-Hour Workweek by Timothy Ferriss](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek)
+
+[每周工作4小时 (豆瓣)](https://book.douban.com/subject/3006483/)
+
+[80个帮助数字游民寻找远程工作的网站](https://remotejobs.hobowithalaptop.com/)
+
 
 
 ## ChangeLog
