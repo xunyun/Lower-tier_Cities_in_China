@@ -82,7 +82,8 @@ PS：题目是不是可以界定为：**新奇有趣三四线** 或者 **新奇�
 
 ## 资料清单
 
-* [进击波财经](https://mp.weixin.qq.com/s/wk2tk8BquuWtuwIu_94IoQ)
+* 【重要】[2018汽车数字营销研究报告：三四线城市成为下一个“蓝海”](https://baijiahao.baidu.com/s?id=1610018642305477260&wfr=spider&for=pc)
+* [藏在县城的万亿生意丨在这里读懂中国-进击波财经](https://mp.weixin.qq.com/s/wk2tk8BquuWtuwIu_94IoQ)
 * [他奶奶的庙！一个清华博士的野路子研究和暗中观察-文化频道-手机搜狐](http://m.sohu.com/a/162939429_465373)
 * [拼多多开发了青少年的创造力-公路商店](https://mp.weixin.qq.com/s/An61TSqxKuFz6L1j1zuH3g)
 * [马云的新零售，已在三四线城市异军突起，你还以为只是口号吗？-林裕坤](https://mp.weixin.qq.com/s/wjqpvPPqSr_8xYCyuXCQAA)
