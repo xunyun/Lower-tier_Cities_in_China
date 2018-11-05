@@ -31,6 +31,33 @@ PS：题目是不是可以界定为：**新奇有趣三四线** 或者 **新奇�
 
 
 
+## 商业地产
+
+
+
+- [新城控股逆势708亿重仓三四线楼市 能否熬过此轮寒冬|新城控股_新浪财经_新浪网](https://finance.sina.com.cn/stock/observe/2018-08-13/doc-ihhqtawy0475532.shtml)
+
+  2018年8月2日，宝能地产总裁余英出席博鳌房地产论坛时候称：“有些三四线城市的土地，我建议大家赶紧卖，落袋为安，如果投资的，赶紧把它卖了，把钱收在手上。”
+
+  　　而**新城控股董事长王振华持有不同观点，他认为未来3~5年三四线城市都有比较好的机会，公司四线城市土储占比还要适当提高。**目前王振华调整了新城现有的“1441”布局，要求公司业务进一步向三四线城市下沉。
+
+  ![img](http://n.sinaimg.cn/finance/transform/168/w550h418/20180813/Xii8-hhqtawy0379471.png)
+
+[新城控股逆势708亿重仓三四线楼市 能否熬过此轮寒冬|新城控股_新浪财经_新浪网](https://finance.sina.com.cn/stock/observe/2018-08-13/doc-ihhqtawy0475532.shtml)
+
+![img](http://n.sinaimg.cn/finance/transform/762/w550h212/20180813/4uZm-hhqtawy0385657.png)
+
+![1541415687619](C:\Users\gaofeng\AppData\Roaming\Typora\typora-user-images\1541415687619.png)
+
+[深度拆解新城控股：你还不知道的三四线机遇 -ZAKER新闻](http://www.myzaker.com/article/5b75664777ac6442c6655d1b/)
+
+## 住宅地产
+
+- 碧桂园
+- 恒大
+
+
+
 ## 有趣社会学资料
 
 - [Synopsis of "That's Interesting!" by Murray Davis](http://www.sfu.ca/~palys/interest.htm)
