@@ -13,13 +13,13 @@
 
 ## 成员
 
-[![chuowo](https://img.shields.io/badge/Github-@xunyun-brightgreen.svg)](https://github.com/xunyun) 队员：`小黑`
+[![chuowo](https://img.shields.io/badge/Github-@xunyun-brightgreen.svg)](https://github.com/xunyun)  `小黑`
 
-[![chuowo](https://img.shields.io/badge/Github-%40z--flea-brightgreen.svg)](https://github.com/z-flea) 队员：`知知知知鸟`
+[![chuowo](https://img.shields.io/badge/Github-%40z--flea-brightgreen.svg)](https://github.com/z-flea)  `知知知知鸟`
 
-[![chuowo](https://img.shields.io/badge/Github-%40perhapslove-brightgreen.svg)](https://github.com/perhapslove) 队员：`安珀`
+[![chuowo](https://img.shields.io/badge/Github-%40perhapslove-brightgreen.svg)](https://github.com/perhapslove)  `安珀`
 
-[![chuowo](https://img.shields.io/badge/Github-%40rebootfun-brightgreen.svg)](https://github.com/rebootfun) 队员：`大雨`
+[![chuowo](https://img.shields.io/badge/Github-%40rebootfun-brightgreen.svg)](https://github.com/rebootfun)  `大雨`
 
 ## ChangeLog
 
